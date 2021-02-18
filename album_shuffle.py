@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 """
-A script that will print all of the songs in your spotify library that contain
-a question mark
+A script that will print 5 random albums from your saved albums
 """
 import random
 import sys
